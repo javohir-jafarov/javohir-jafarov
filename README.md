@@ -1,16 +1,36 @@
-## Hi there 👋
+# Javohir Jafarov
 
-<!--
-**javohir-jafarov/javohir-jafarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### frontend developer
 
-Here are some ideas to get you started:
+---
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [official Website](https://jafarovich.netlify.app) - The site helps me to provide information about myself.
+
+- [croco game](https://croco-game.netlify.app) - This game is similar to crocodile dentist, but can only be played online.
+
+---
+## Skills
+- HTML
+- CSS
+  - SASS
+  - TailwindCSS
+- Python
+- JS
+  - ReactJS
+
+## Tools
+
+- GitHub
+- Vs Code
+- Firefox
+- Netlify
+- Linux manjaro
+
+---
+
+## Contact Me
+
+- [Instaram](https://www.instagram.com/javohir_dev) - my instagram account.
+- [Telegram](t.me/java2454) - If you have any questions, you can get answers from me here.
+
