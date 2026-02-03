@@ -33,4 +33,5 @@
 
 - [Instaram](https://www.instagram.com/javohir_dev) - my instagram account.
 - [Telegram](t.me/java2454) - If you have any questions, you can get answers from me here.
+- [Linkedin](https://www.linkedin.com/in/javohir-jafarov-b2277a3aa/) - Let's connect and network professionally.
 
