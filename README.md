@@ -15,7 +15,6 @@
 - CSS
   - SASS
   - TailwindCSS
-- Python
 - JS
   - ReactJS
 
@@ -25,7 +24,7 @@
 - Vs Code
 - Firefox
 - Netlify
-- Linux manjaro
+- Linux
 
 ---
 
